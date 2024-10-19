@@ -1,0 +1,393 @@
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "03q-vG-A7B"; */
+"03q-vG-A7B.normalTitle" = "NEXT";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "0kd-Z3-UEC"; */
+"0kd-Z3-UEC.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "Sign Up Now"; ObjectID = "1SV-cz-BMQ"; */
+"1SV-cz-BMQ.normalTitle" = "Sign Up Now";
+
+/* Class = "UIButton"; configuration.title = "Select"; ObjectID = "1w5-ST-2c5"; */
+"1w5-ST-2c5.configuration.title" = "Select";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "1w5-ST-2c5"; */
+"1w5-ST-2c5.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "4g3-N7-7mr"; */
+"4g3-N7-7mr.placeholder" = "First Name";
+
+/* Class = "UILabel"; text = "Date "; ObjectID = "4hS-qq-A2A"; */
+"4hS-qq-A2A.text" = "Date ";
+
+/* Class = "UILabel"; text = "Enter your email address to reset your password"; ObjectID = "4oP-ZW-drx"; */
+"4oP-ZW-drx.text" = "Enter your email address to reset your password";
+
+/* Class = "UITextField"; placeholder = "Mobile"; ObjectID = "4qu-W9-HNO"; */
+"4qu-W9-HNO.placeholder" = "Mobile";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "4t9-Vs-Z5V"; */
+"4t9-Vs-Z5V.normalTitle" = "SIGN IN";
+
+/* Class = "UITabBarItem"; title = "Notifications"; ObjectID = "54u-so-cFI"; */
+"54u-so-cFI.title" = "Notifications";
+
+/* Class = "UILabel"; text = "Don't have an account ? "; ObjectID = "5LG-CV-mlN"; */
+"5LG-CV-mlN.text" = "Don't have an account ? ";
+
+/* Class = "UILabel"; text = "Start Time"; ObjectID = "5eZ-Pq-wfn"; */
+"5eZ-Pq-wfn.text" = "Start Time";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "6Aj-mL-wJ6"; */
+"6Aj-mL-wJ6.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "02:30 pm"; ObjectID = "6xE-Oa-OAR"; */
+"6xE-Oa-OAR.text" = "02:30 pm";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "7eJ-Wp-DsD"; */
+"7eJ-Wp-DsD.normalTitle" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Select"; ObjectID = "89Q-Mq-PMq"; */
+"89Q-Mq-PMq.normalTitle" = "Select";
+
+/* Class = "UITextField"; placeholder = "Enter"; ObjectID = "8Nc-MZ-XRh"; */
+"8Nc-MZ-XRh.placeholder" = "Enter";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "8jL-pU-0yf"; */
+"8jL-pU-0yf.placeholder" = "Last Name";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "902-qz-sml"; */
+"902-qz-sml.placeholder" = "Last Name";
+
+/* Class = "UILabel"; text = "My Bookings"; ObjectID = "9GD-Aa-tkn"; */
+"9GD-Aa-tkn.text" = "My Bookings";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "9S4-rI-RjL"; */
+"9S4-rI-RjL.normalTitle" = "NEXT";
+
+/* Class = "UIButton"; normalTitle = "Pay"; ObjectID = "BVz-MX-cPg"; */
+"BVz-MX-cPg.normalTitle" = "Pay";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "BcW-CG-VSR"; */
+"BcW-CG-VSR.title" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "UPDATE"; ObjectID = "Bjy-id-eKq"; */
+"Bjy-id-eKq.normalTitle" = "UPDATE";
+
+/* Class = "UITextField"; placeholder = "Enter card number"; ObjectID = "Co3-dH-seV"; */
+"Co3-dH-seV.placeholder" = "Enter card number";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "Cud-OI-Uj2"; */
+"Cud-OI-Uj2.text" = "Notifications";
+
+/* Class = "UITextField"; placeholder = "Current Password"; ObjectID = "Cul-eE-php"; */
+"Cul-eE-php.placeholder" = "Current Password";
+
+/* Class = "UILabel"; text = "Already have an account ?"; ObjectID = "EVn-el-uDI"; */
+"EVn-el-uDI.text" = "Already have an account ?";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "Fj3-Eg-AVk"; */
+"Fj3-Eg-AVk.text" = "Settings";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GE5-MG-jhM"; */
+"GE5-MG-jhM.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Select"; ObjectID = "Gb4-1k-NMJ"; */
+"Gb4-1k-NMJ.normalTitle" = "Select";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "HcM-x2-ezt"; */
+"HcM-x2-ezt.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "SAR 10.00"; ObjectID = "Hry-ih-W8m"; */
+"Hry-ih-W8m.text" = "SAR 10.00";
+
+/* Class = "UILabel"; text = "Delete Account"; ObjectID = "I3k-kF-zaa"; */
+"I3k-kF-zaa.text" = "Delete Account";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "Id4-dN-w5w"; */
+"Id4-dN-w5w.normalTitle" = "Sign In";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "JUS-I8-yfX"; */
+"JUS-I8-yfX.placeholder" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "KeV-DK-ckM"; */
+"KeV-DK-ckM.normalTitle" = "Send";
+
+/* Class = "UITextField"; placeholder = "Enter security code"; ObjectID = "LhI-jx-bF5"; */
+"LhI-jx-bF5.placeholder" = "Enter security code";
+
+/* Class = "UILabel"; text = "Privacy Policy"; ObjectID = "LiT-aC-Z9v"; */
+"LiT-aC-Z9v.text" = "Privacy Policy";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "MlD-tT-UaE"; */
+"MlD-tT-UaE.text" = "Change Password";
+
+/* Class = "UIButton"; configuration.title = "1"; ObjectID = "Ol9-NH-SZ6"; */
+"Ol9-NH-SZ6.configuration.title" = "1";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ol9-NH-SZ6"; */
+"Ol9-NH-SZ6.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "PLA-Cg-fGa"; */
+"PLA-Cg-fGa.normalTitle" = "Forgot Password?";
+
+/* Class = "UITextField"; placeholder = "Enter expiry date"; ObjectID = "PvA-kH-fvL"; */
+"PvA-kH-fvL.placeholder" = "Enter expiry date";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "PxU-ph-OYI"; */
+"PxU-ph-OYI.placeholder" = "Confirm Password";
+
+/* Class = "UILabel"; text = "Terms and Conditions"; ObjectID = "Ri3-0q-IEQ"; */
+"Ri3-0q-IEQ.text" = "Terms and Conditions";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "RqP-Rc-ckK"; */
+"RqP-Rc-ckK.text" = "2";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "SAa-vW-1al"; */
+"SAa-vW-1al.text" = "Forgot Password";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "SMI-xs-Nhz"; */
+"SMI-xs-Nhz.title" = "Home";
+
+/* Class = "UILabel"; text = "How Many Maids"; ObjectID = "Scz-BL-xZD"; */
+"Scz-BL-xZD.text" = "How Many Maids";
+
+/* Class = "UILabel"; text = "Card Number"; ObjectID = "TAc-db-ltp"; */
+"TAc-db-ltp.text" = "Card Number";
+
+/* Class = "UILabel"; text = "Enter villa or appartment number"; ObjectID = "TCh-pD-0mr"; */
+"TCh-pD-0mr.text" = "Enter villa or appartment number";
+
+/* Class = "UILabel"; text = "Total Visit Hours"; ObjectID = "Tco-CV-ED9"; */
+"Tco-CV-ED9.text" = "Total Visit Hours";
+
+/* Class = "UILabel"; text = "End Time"; ObjectID = "Tdd-F9-5DU"; */
+"Tdd-F9-5DU.text" = "End Time";
+
+/* Class = "UILabel"; text = "Security Code"; ObjectID = "U6R-T0-Bnx"; */
+"U6R-T0-Bnx.text" = "Security Code";
+
+/* Class = "UILabel"; text = "Start Time"; ObjectID = "UxG-B3-l8E"; */
+"UxG-B3-l8E.text" = "Start Time";
+
+/* Class = "UILabel"; text = "Beach Name"; ObjectID = "V4x-iF-wv9"; */
+"V4x-iF-wv9.text" = "Beach Name";
+
+/* Class = "UILabel"; text = "Base Fee"; ObjectID = "Voq-0s-DR4"; */
+"Voq-0s-DR4.text" = "Base Fee";
+
+/* Class = "UITextField"; placeholder = "Mobile"; ObjectID = "Wc2-Mt-WJQ"; */
+"Wc2-Mt-WJQ.placeholder" = "Mobile";
+
+/* Class = "UILabel"; text = "SAR 10.00"; ObjectID = "WeW-jQ-S33"; */
+"WeW-jQ-S33.text" = "SAR 10.00";
+
+/* Class = "UILabel"; text = "House Type"; ObjectID = "X4g-6o-KLM"; */
+"X4g-6o-KLM.text" = "House Type";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XIS-II-fvI"; */
+"XIS-II-fvI.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "XJ9-VX-Bh8"; */
+"XJ9-VX-Bh8.normalTitle" = "SUBMIT";
+
+/* Class = "UITextField"; placeholder = "Enter name on card"; ObjectID = "XZ8-Is-uQE"; */
+"XZ8-Is-uQE.placeholder" = "Enter name on card";
+
+/* Class = "UILabel"; text = "How Many Maids"; ObjectID = "Xpu-hM-vZN"; */
+"Xpu-hM-vZN.text" = "How Many Maids";
+
+/* Class = "UILabel"; text = "villa"; ObjectID = "Y8d-7g-200"; */
+"Y8d-7g-200.text" = "villa";
+
+/* Class = "UILabel"; text = "Booking Fees"; ObjectID = "YCG-iP-3AG"; */
+"YCG-iP-3AG.text" = "Booking Fees";
+
+/* Class = "UILabel"; text = "03/18/2024"; ObjectID = "aP3-nj-vLz"; */
+"aP3-nj-vLz.text" = "03/18/2024";
+
+/* Class = "UITextView"; text = "Search Location"; ObjectID = "abd-LO-bxs"; */
+"abd-LO-bxs.text" = "Search Location";
+
+/* Class = "UIButton"; configuration.title = "Villa"; ObjectID = "age-kD-oQb"; */
+"age-kD-oQb.configuration.title" = "Villa";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "age-kD-oQb"; */
+"age-kD-oQb.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "End Time "; ObjectID = "arJ-Pn-aEE"; */
+"arJ-Pn-aEE.text" = "End Time ";
+
+/* Class = "UILabel"; text = "Select Address"; ObjectID = "bJL-8l-I9P"; */
+"bJL-8l-I9P.text" = "Select Address";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "bLd-VN-yh1"; */
+"bLd-VN-yh1.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "02:30 pm"; ObjectID = "cU1-SN-Oub"; */
+"cU1-SN-Oub.text" = "02:30 pm";
+
+/* Class = "UIButton"; normalTitle = "Sign In Now"; ObjectID = "cjM-sa-Iyi"; */
+"cjM-sa-Iyi.normalTitle" = "Sign In Now";
+
+/* Class = "UITextField"; placeholder = "Enter"; ObjectID = "dGC-Bn-CY3"; */
+"dGC-Bn-CY3.placeholder" = "Enter";
+
+/* Class = "UILabel"; text = "I have read the Terms & Conditions and accept them"; ObjectID = "dGr-Ph-gJR"; */
+"dGr-Ph-gJR.text" = "I have read the Terms & Conditions and accept them";
+
+/* Class = "UILabel"; text = "Service"; ObjectID = "dHe-6Z-SWT"; */
+"dHe-6Z-SWT.text" = "Service";
+
+/* Class = "UILabel"; text = "Contact Us"; ObjectID = "dNa-tr-o6s"; */
+"dNa-tr-o6s.text" = "Contact Us";
+
+/* Class = "UIButton"; configuration.title = "1"; ObjectID = "dRK-su-Vzf"; */
+"dRK-su-Vzf.configuration.title" = "1";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dRK-su-Vzf"; */
+"dRK-su-Vzf.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Offers"; ObjectID = "dwI-tc-HpS"; */
+"dwI-tc-HpS.title" = "Offers";
+
+/* Class = "UILabel"; text = "Name On Card"; ObjectID = "eLn-hD-f0s"; */
+"eLn-hD-f0s.text" = "Name On Card";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "eQu-4B-SHi"; */
+"eQu-4B-SHi.text" = "Location";
+
+/* Class = "UILabel"; text = "Total Amount"; ObjectID = "f16-SD-ZkE"; */
+"f16-SD-ZkE.text" = "Total Amount";
+
+/* Class = "UILabel"; text = "Offers"; ObjectID = "f8Y-pk-E3h"; */
+"f8Y-pk-E3h.text" = "Offers";
+
+/* Class = "UILabel"; text = "Change Language"; ObjectID = "flH-vA-c6V"; */
+"flH-vA-c6V.text" = "Change Language";
+
+/* Class = "UILabel"; text = "Invite Friends"; ObjectID = "fuO-22-Z8g"; */
+"fuO-22-Z8g.text" = "Invite Friends";
+
+/* Class = "UILabel"; text = "Select Language"; ObjectID = "gB5-5S-c7P"; */
+"gB5-5S-c7P.text" = "Select Language";
+
+/* Class = "UILabel"; text = "Update Profile"; ObjectID = "gFJ-fA-fqe"; */
+"gFJ-fA-fqe.text" = "Update Profile";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "h22-Xi-tTa"; */
+"h22-Xi-tTa.normalTitle" = "REGISTER";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "h4I-7O-bi3"; */
+"h4I-7O-bi3.placeholder" = "First Name";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "jUO-6h-qwJ"; */
+"jUO-6h-qwJ.normalTitle" = "DONE";
+
+/* Class = "UIButton"; normalTitle = "Pay"; ObjectID = "kGm-f2-xaA"; */
+"kGm-f2-xaA.normalTitle" = "Pay";
+
+/* Class = "UILabel"; text = "Total Visit Hours"; ObjectID = "kVu-3G-y4t"; */
+"kVu-3G-y4t.text" = "Total Visit Hours";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "kc4-7k-qVI"; */
+"kc4-7k-qVI.normalTitle" = "Save";
+
+/* Class = "UIButton"; configuration.title = "Remember Me"; ObjectID = "keV-bd-3ui"; */
+"keV-bd-3ui.configuration.title" = "Remember Me";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "lMv-f8-x1X"; */
+"lMv-f8-x1X.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "lsc-zh-WK9"; */
+"lsc-zh-WK9.text" = "Address";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "m9c-wr-dGn"; */
+"m9c-wr-dGn.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "$0.0"; ObjectID = "mzb-HS-icA"; */
+"mzb-HS-icA.text" = "$0.0";
+
+/* Class = "UILabel"; text = "315, Mangal Nagar Road, Mangal Nagar, Indore, Madhya Pradesh 452016, India"; ObjectID = "n54-Vr-54B"; */
+"n54-Vr-54B.text" = "315, Mangal Nagar Road, Mangal Nagar, Indore, Madhya Pradesh 452016, India";
+
+/* Class = "UILabel"; text = "Start Date"; ObjectID = "nBq-jk-xaA"; */
+"nBq-jk-xaA.text" = "Start Date";
+
+/* Class = "UILabel"; text = "Villa or Appartment Number"; ObjectID = "ofc-uS-d2n"; */
+"ofc-uS-d2n.text" = "Villa or Appartment Number";
+
+/* Class = "UILabel"; text = "Service Per Hour"; ObjectID = "p5p-WN-d4B"; */
+"p5p-WN-d4B.text" = "Service Per Hour";
+
+/* Class = "UILabel"; text = "User Name"; ObjectID = "pRQ-A8-VMg"; */
+"pRQ-A8-VMg.text" = "User Name";
+
+/* Class = "UITextField"; placeholder = "Second Phone Number"; ObjectID = "pgp-RI-C6c"; */
+"pgp-RI-C6c.placeholder" = "Second Phone Number";
+
+/* Class = "UILabel"; text = "Select Rating"; ObjectID = "rrb-35-6pM"; */
+"rrb-35-6pM.text" = "Select Rating";
+
+/* Class = "UILabel"; text = "House Type"; ObjectID = "rxd-RB-Xcp"; */
+"rxd-RB-Xcp.text" = "House Type";
+
+/* Class = "UILabel"; text = "Beach Name"; ObjectID = "s5G-sE-yIs"; */
+"s5G-sE-yIs.text" = "Beach Name";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "sNV-YU-r7o"; */
+"sNV-YU-r7o.placeholder" = "Confirm Password";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "so1-Lf-kwX"; */
+"so1-Lf-kwX.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "srn-ho-oEb"; */
+"srn-ho-oEb.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Select"; ObjectID = "tPo-Hs-OVJ"; */
+"tPo-Hs-OVJ.normalTitle" = "Select";
+
+/* Class = "UIButton"; configuration.title = "Arabic"; ObjectID = "uBJ-Tc-e2r"; */
+"uBJ-Tc-e2r.configuration.title" = "Arabic";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "vOf-IV-Yov"; */
+"vOf-IV-Yov.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Login to your account"; ObjectID = "vYI-sx-zoF"; */
+"vYI-sx-zoF.text" = "Login to your account";
+
+/* Class = "UILabel"; text = "SAR 10.00"; ObjectID = "vZe-wE-Ra9"; */
+"vZe-wE-Ra9.text" = "SAR 10.00";
+
+/* Class = "UIButton"; configuration.title = "Appartment"; ObjectID = "vfK-ay-68u"; */
+"vfK-ay-68u.configuration.title" = "Appartment";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vfK-ay-68u"; */
+"vfK-ay-68u.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Service"; ObjectID = "wf8-Jx-6ic"; */
+"wf8-Jx-6ic.text" = "Service";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "xsL-NC-Pre"; */
+"xsL-NC-Pre.text" = "Logout";
+
+/* Class = "UILabel"; text = "Expiry Date"; ObjectID = "xyM-uH-P8g"; */
+"xyM-uH-P8g.text" = "Expiry Date";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "yUp-EL-2d3"; */
+"yUp-EL-2d3.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "yl3-iZ-uHh"; */
+"yl3-iZ-uHh.text" = "1";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "yvH-ZJ-J6f"; */
+"yvH-ZJ-J6f.placeholder" = "New Password";
+
+/* Class = "UIButton"; configuration.title = "English"; ObjectID = "zUA-bz-rxf"; */
+"zUA-bz-rxf.configuration.title" = "English";
+
+/* Class = "UILabel"; text = "sss"; ObjectID = "zig-c0-9ij"; */
+"zig-c0-9ij.text" = "sss";
+
+/* Class = "UITextField"; placeholder = "Second Phone Number"; ObjectID = "zqs-L2-KAJ"; */
+"zqs-L2-KAJ.placeholder" = "Second Phone Number";

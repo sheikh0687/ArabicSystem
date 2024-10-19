@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "20% off"; ObjectID = "A7L-D3-xal"; */
+"A7L-D3-xal.text" = "20% off";
+
+/* Class = "UILabel"; text = "You can apply coupon at the time of booking"; ObjectID = "Qi5-Ce-pD8"; */
+"Qi5-Ce-pD8.text" = "You can apply coupon at the time of booking";
+
+/* Class = "UILabel"; text = "Room Cleaning "; ObjectID = "Rfq-RH-lej"; */
+"Rfq-RH-lej.text" = "Room Cleaning ";
+
+/* Class = "UILabel"; text = "Use Code : ABC123"; ObjectID = "eix-1w-ZmP"; */
+"eix-1w-ZmP.text" = "Use Code : ABC123";

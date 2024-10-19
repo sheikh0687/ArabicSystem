@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Date : 12-05-2024 from 10:00 to 13:00 2 maids Total Visit Hours : 30  "; ObjectID = "A0n-Jp-xt6"; */
+"A0n-Jp-xt6.text" = "Date : 12-05-2024 from 10:00 to 13:00 2 maids Total Visit Hours : 30  ";
+
+/* Class = "UIButton"; normalTitle = "Give Rating"; ObjectID = "Slu-qk-qkl"; */
+"Slu-qk-qkl.normalTitle" = "Give Rating";
+
+/* Class = "UILabel"; text = "Room Cleaning"; ObjectID = "bXX-qY-VAd"; */
+"bXX-qY-VAd.text" = "Room Cleaning";
+
+/* Class = "UILabel"; text = "$0.0/hour"; ObjectID = "rgr-my-o59"; */
+"rgr-my-o59.text" = "$0.0/hour";
