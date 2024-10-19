@@ -9,9 +9,11 @@ import UIKit
 
 class CleaningServiceCell: UICollectionViewCell {
 
+    @IBOutlet weak var img: UIImageView!
+    
     override func awakeFromNib() {
         super.awakeFromNib()
-        // Initialization code
+       
     }
 
 }

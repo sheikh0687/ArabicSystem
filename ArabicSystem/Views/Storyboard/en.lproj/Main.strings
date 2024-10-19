@@ -18,7 +18,7 @@
 "4g3-N7-7mr.placeholder" = "First Name";
 
 /* Class = "UILabel"; text = "Date "; ObjectID = "4hS-qq-A2A"; */
-"4hS-qq-A2A.text" = "Date ";
+"4hS-qq-A2A.text" = "Date";
 
 /* Class = "UILabel"; text = "Enter your email address to reset your password"; ObjectID = "4oP-ZW-drx"; */
 "4oP-ZW-drx.text" = "Enter your email address to reset your password";

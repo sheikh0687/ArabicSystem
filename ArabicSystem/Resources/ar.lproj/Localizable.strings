@@ -5,3 +5,362 @@
   Created by Techimmense Software Solutions on 01/04/24.
   
 */
+
+// MARK: UI View Controller Language
+"No Internet Connection. Make sure your device is connected to the internet" = "لا يوجد اتصال بالإنترنت. تأكد من اتصال جهازك بالإنترنت";
+"Forget password" = "نسيت كلمة المرور";
+
+"Please enter the valid email address" = "الرجاء إدخال عنوان البريد الإلكتروني الصحيح";
+
+"New password has sent to your email" = "تم إرسال كلمة المرور الجديدة إلى بريدك الإلكتروني";
+
+"Sign In Now" = "تسجيل الدخول الآن";
+
+"Please enter the required details!" = "الرجاء إدخال التفاصيل المطلوبة!";
+
+"Sign Up" = "تسجيل حساب جديد";
+
+"Required first name" = "الاسم الأول";
+
+"Required last name" = "الاسم الأخير";
+
+"Please enter email" = "البريد الإلكتروني";
+
+"Please enter mobile number" = "رقم الجوال";
+
+"Please enter any other number" =  "رقم آخر";
+
+"Please enter the password" = "أدخل كلمة المرور";
+
+"Please confirm the password" = " تأكيد كلمة المرور";
+
+"Please read the terms and condition" = "يُرجى قراءة الشروط والأحكام";
+
+"Account created successfully" = "تم إنشاء الحساب بنجاح";
+
+"Are you sure you want to delete your account" = "هل أنت متأكد من رغبتك في حذف حسابك";
+
+"Booking" = "الحجز";
+
+"Write Review" = "كتابه تعليق";
+
+"Give Rating" = " التقييم";
+
+"Please give the rating!" = "يرجى إعطاء التقييم!";
+
+"Review added successfully" = "تمت إضافة المراجعة بنجاح";
+
+"Service Detail" = "تفاصيل الخدمة";
+
+"Please select the date" = " تحديد التاريخ";
+
+"Please select the start time" = " تحديد وقت البدء";
+
+"Please select the end time" = " تحديد وقت الانتهاء";
+
+"Address Detail" = "تفاصيل العنوان";
+
+"Total Amount" = "المبلغ الإجمالي";
+
+"Edit Profile" = "تحرير الملف الشخصي";
+
+"Profile updated successfully!" = "تم تحديث الملف الشخصي بنجاح!";
+
+"Change Password" = "تغيير كلمة المرور";
+
+"Password changed successfully" = "تم تغيير كلمة المرور بنجاح";
+
+"Contact Us" = "اتصل بنا";
+
+"We will contact you soon" = "سوف نتصل بك قريبًا";
+
+"Language" = "اللغة";
+
+"Term and Condition" = "الاحكام والشروط";
+
+"Privacy Policy" = "سياسةوالخصوصية";
+
+"off" = "إيقاف";
+
+"Use code" = "استخدم الكود";
+
+"hour" = "ساعة";
+
+"from" = "من";
+
+"to" = "إلى";
+
+"maids" = "عدد العمالة";
+
+"How many rooms" = " عدد الغرف";
+
+"Time" = "الوقت";
+
+"Loading" = "تحميل";
+
+"Please Wait" = "من فضلك انتظر";
+
+"Ok" = "موافق";
+
+"Yes" = "نعم";
+
+"Yes" = "نعم";
+
+"No" = "لا";
+
+"Open" = "فتح";
+
+"Payment done successfully" = "تم الدفع بنجاح";
+
+"Verification Code" = "رمز التحقق";
+
+"Something went wrong" = "حدث خطأ ما";
+
+"Add Promo Code" = "إضافة رمز ترويجي";
+
+"Apply" = "يتقدم";
+
+"Discount" = "تخفيض";
+"You have already applied the code" = "لقد قمت بالفعل بتطبيق الكود";
+"Please enter the correct code" = "الرجاء إدخال الرمز الصحيح";
+
+// MARK: UI Storyboard Language
+
+"NEXT" = "التالي";
+
+"Sign Up Now" = "سجل الآن";
+
+"Select" = "اختر";
+
+"First Name" = "الاسم الأول";
+
+"Date" = "التاريخ";
+
+"Enter your email address to reset your password" = "أدخل عنوان بريدك الإلكتروني لإعادة تعيين كلمة المرور";
+
+"Mobile" = "الجوال";
+
+"SIGN IN" = "تسجيل الدخول";
+
+"Notifications" = "الإشعارات";
+
+"Start Time" = "وقت البدء";
+
+"Send" = "إرسال";
+
+"02:30 pm" = "02:30 مساءً";
+
+"Sign Up" = "التسجيل";
+
+"Select" = "اختر";
+
+"Enter" = "أدخل";
+
+"Last Name" = "الاسم الأخير";
+
+"My Bookings" = "حجوزاتي";
+
+"NEXT" = "التالي";
+"Pay" = "الدفع";
+
+"Settings" = "الإعدادات";
+
+"UPDATE" = "تحديث";
+
+"Enter card number" = "أدخل رقم البطاقة";
+
+"Notifications" = "الإشعارات";
+
+"Current Password" = "كلمة المرور الحالية";
+
+"Already have an account?" = "هل لديك حساب؟";
+
+"Settings" = "الإعدادات";
+
+"Select" = "اختر";
+
+"Email" = "البريد الإلكتروني";
+
+"SAR 10.00" = "10.00 ريال سعودي";
+
+"Delete Account" = "حذف الحساب";
+
+"Sign In" = "تسجيل الدخول";
+
+"Name" = "الاسم";
+
+"Send" = "إرسال";
+
+"Enter security code" = "أدخل رمز الحماية";
+
+"Privacy Policy" = "سياسة والخصوصية";
+
+"Change Password" = "تغيير كلمة المرور";
+
+"Forgot Password?" = "هل نسيت كلمة السر؟";
+
+"Enter expiry date" = "أدخل تاريخ انتهاء الصلاحية";
+
+"Confirm Password" = "تأكيد كلمة المرور";
+
+"Terms and Conditions" = "الشروط والأحكام";
+
+"Forgot Password" = "نسيت كلمة المرور";
+
+"Home" = "الصفحة الرئيسية";
+
+"How Many Maids" = "كم عدد الخادمات";
+
+"Card Number" = "رقم البطاقة";
+
+"Enter villa or appartment number" = "أدخل رقم الفيلا أو الشقة";
+
+"Security Code" = "رمز الأمان";
+
+"Start Time" = "وقت البدء";
+
+"Beach Name" = "اسم الشاطئ";
+
+"Base Fee" = "الرسوم الأساسية";
+
+"Mobile" = "الجوال";
+
+"SAR 10.00" = "10.00 ريال سعودي";
+
+"House Type" = "نوع المنزل";
+
+"SUBMIT" = "إرسال";
+
+"Enter name on card" = "أدخل الاسم على البطاقة";
+
+"How Many Maids" = "عدد العماله";
+
+"How many living room" = "عدد غرف المعيشه";
+
+;"وقت العامل سيكون ساعة واحدة" = "Time for maid will be an hour"
+
+"Booking For" = "الحجز لـ";
+
+"Apartment service" = "خدمة الشقة";
+
+"villa" = "فيلا";
+
+"Booking Fees" = "رسوم الحجز";
+
+"Search Location" = "موقع البحث";
+
+"Villa" = "فيلا";
+
+"Select Address" = "حدد عنوان";
+
+"Save" = "حفظ";
+
+"Sign In Now" = "تسجيل الدخول الآن";
+
+"Enter" = "أدخل";
+
+"I have read the Terms & Conditions and accept them" = "لقد قرأت الشروط والأحكام وقبلتها";
+
+"Service" = "الخدمة";
+
+"Contact Us" = "اتصل بنا";
+
+"Offers" = "العروض";
+
+"Name On Card" = "الاسم الموجود على البطاقة";
+
+"Location" = "الموقع";
+
+"Total Amount" = "المبلغ الإجمالي";
+
+"Change Language" = "تغيير اللغة";
+
+"Invite Friends" = "دعوة الأصدقاء";
+
+"Select Language" = "اختر اللغة";
+
+"Update Profile" = "تحديث ملف التعريف";
+
+"REGISTER" = "تسجيل";
+
+"First Name" = "الاسم الأول";
+
+"DONE" = "تم";
+
+"Done" = "تم";
+
+"Cancel" = "إلغاء";
+
+"Pay" = "الدفع";
+
+"Save" = "حفظ";
+
+"Password" = "كلمة المرور";
+
+"Address" = "العنوان";
+
+"Email" = "البريد الإلكتروني";
+
+"315, Mangal Nagar Road, Mangal Nagar, Indore, Madhya Pradesh 452016, India" = "315, Mangal Nagar Road, Mangal Nagar, Indore, Madhya Pradesh 452016, India";
+
+"Start Date" = "التاريخ";
+
+"Villa or Appartment Number" = "رقم الفيلا أو الشقة";
+
+"Service Per Hour" = "الخدمة في الساعة";
+
+"User Name" = "اسم المستخدم";
+
+"Second Phone Number" = "رقم الهاتف الثاني";
+
+"Select Rating" = "اختر التقييم";
+
+"House Type" = "نوع المنزل";
+
+"Beach Name" = "اسم الشاطئ";
+
+"Confirm Password" = "تأكيد كلمة المرور";
+
+"Password" = "كلمة المرور";
+
+"Email" = "البريد الإلكتروني";
+
+"Select" = "اختر";
+
+"Arabic" = "العربية";
+
+"Email" = "البريد الإلكتروني";
+
+"SAR 10.00" = "SAR 10.00";
+
+"Appartment" = "شقة";
+
+"Logout" = "تسجيل الخروج";
+
+"Expiry Date" = "تاريخ انتهاء الصلاحية";
+
+"New Password" = "كلمة المرور الجديدة";
+
+"English" = "الإنجليزية";
+
+"Second Phone Number" = "رقم الهاتف الثاني";
+
+"End Time" = "وقت النهاية";
+
+"Remember Me" = "تذكرني";
+
+"Login to your account" = "تسجيل الدخول إلى حسابك";
+
+"Don't have an account" = "ليس لديك حساب؟";
+
+"Tax" = "الضريبة";
+
+"No Data Available" = "لا توجد بيانات متاحة";
+
+// MARK: UI Custom Cell Language
+"You can apply coupon at the time of booking" = "يمكنك تطبيق الكوبون في وقت الحجز";
+
+"20% off" = "20% off";
+
+"Give Rating" = "منح التقييم";
+

@@ -1,0 +1,54 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "A7L-D3-xal.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"20% off\"; ObjectID = \"A7L-D3-xal\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "20% off"
+          }
+        }
+      }
+    },
+    "eix-1w-ZmP.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Use Code : ABC123\"; ObjectID = \"eix-1w-ZmP\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Use Code : ABC123"
+          }
+        }
+      }
+    },
+    "Qi5-Ce-pD8.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"You can apply coupon at the time of booking\"; ObjectID = \"Qi5-Ce-pD8\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You can apply coupon at the time of booking"
+          }
+        }
+      }
+    },
+    "Rfq-RH-lej.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Room Cleaning \"; ObjectID = \"Rfq-RH-lej\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Room Cleaning "
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

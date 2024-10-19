@@ -7,8 +7,8 @@
 
 import Foundation
 
-struct Api_Login : Codable {
-    let result : Res_Login?
+struct Api_Base : Codable {
+    let result : Res_Base?
     let message : String?
     let status : String?
 
@@ -21,14 +21,14 @@ struct Api_Login : Codable {
 
     init(from decoder: Decoder) throws {
         let values = try decoder.container(keyedBy: CodingKeys.self)
-        result = try values.decodeIfPresent(Res_Login.self, forKey: .result)
+        result = try values.decodeIfPresent(Res_Base.self, forKey: .result)
         message = try values.decodeIfPresent(String.self, forKey: .message)
         status = try values.decodeIfPresent(String.self, forKey: .status)
     }
 
 }
 
-struct Res_Login : Codable {
+struct Res_Base : Codable {
     let id : String?
     let store_id : String?
     let first_name : String?

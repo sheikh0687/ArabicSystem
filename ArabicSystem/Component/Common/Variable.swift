@@ -16,4 +16,9 @@ var localTimeZoneIdentifier: String { return
 
 var dictSignup:[String:AnyObject] = [:]
 
-var logout: Bool = true
+var logout: Bool = false
+
+enum emLang: String {
+    case english
+    case arabic
+}

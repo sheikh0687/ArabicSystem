@@ -20,7 +20,6 @@ class DesignableButton: UIButton {
 class DesignableLabel: UILabel {
 }
 
-
 extension UIView {
   
   @IBInspectable
@@ -237,5 +236,45 @@ extension UITextView {
     
     private func updateHintVisibility(_ hintLabel: UILabel) {
         hintLabel.isHidden = !self.text.isEmpty
+    }
+}
+
+extension UIImage {
+    @objc func flipHorizontally() -> UIImage? {
+        UIGraphicsBeginImageContextWithOptions(self.size, false, self.scale)
+        let context = UIGraphicsGetCurrentContext()!
+        
+        context.translateBy(x: self.size.width/2, y: self.size.height/2)
+        context.scaleBy(x: -1.0, y: 1.0)
+        context.translateBy(x: -self.size.width/2, y: -self.size.height/2)
+        
+        self.draw(in: CGRect(x: 0, y: 0, width: self.size.width, height: self.size.height))
+        
+        let newImage = UIGraphicsGetImageFromCurrentImageContext()
+        UIGraphicsEndImageContext()
+        
+        return newImage
+    }
+}
+
+extension UICollectionView {
+    
+    func registerCell(nibName: String) {
+        
+        self.register(UINib(nibName: nibName, bundle: nil), forCellWithReuseIdentifier: nibName)
+    }
+    
+    func scrollToNextItem() {
+        let contentOffset = CGFloat(floor(self.contentOffset.x + self.bounds.size.width))
+        self.moveToFrame(contentOffset: contentOffset)
+    }
+    
+    func scrollToPreviousItem() {
+        let contentOffset = CGFloat(floor(self.contentOffset.x - self.bounds.size.width))
+        self.moveToFrame(contentOffset: contentOffset)
+    }
+    
+    func moveToFrame(contentOffset : CGFloat) {
+        self.setContentOffset(CGPoint(x: contentOffset, y: self.contentOffset.y), animated: true)
     }
 }

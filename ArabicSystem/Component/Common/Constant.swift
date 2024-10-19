@@ -15,7 +15,7 @@ struct k {
     static let emptyString                                  =      ""
     static let userDefault                                  =      UserDefaults.standard
     static let userType                                     =      "USER"
-    static let currency                                     =      "$"
+    static let currency                                     =      "SAR"
     static let nigerianCurrency                             =      "₦"
     static let themeColor                                   =      "#D1F6F3"
     static let navigationColor                              =      "#000000"
@@ -36,9 +36,13 @@ struct k {
     
     struct session {
         static let status                                   =      "status"
+        static let itemClass                                =      "itemClass"
         static let userId                                   =      "user_id"
+        static let rememberMe                               =      "rememberMe"
         static let userName                                 =      "user_name"
+        static let mobileNum                                =      "mobileNUm"
         static let userEmail                                =      "user_email"
+        static let userPassword                             =      "userPassword"
         static let type                                     =      "type"
         static let custId                                   =      "custId"
         static let stripeCustomerId                         =      ""
